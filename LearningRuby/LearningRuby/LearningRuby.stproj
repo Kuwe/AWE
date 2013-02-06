@@ -13,9 +13,7 @@
     <OutputPath>bin\Release\</OutputPath>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="LearningRuby.rb" />
-  </ItemGroup>
-  <ItemGroup>
+    <Content Include="fibonacci.rb" />
     <Content Include="multiplesOf3and5.rb" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\SapphireSteel Software\Ruby In Steel 2010\RubyInSteel.targets" />
