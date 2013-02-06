@@ -15,6 +15,7 @@
   <ItemGroup>
     <Content Include="fibonacci.rb" />
     <Content Include="multiplesOf3and5.rb" />
+    <Content Include="OpenFileAndCountLetters.rb" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\SapphireSteel Software\Ruby In Steel 2010\RubyInSteel.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

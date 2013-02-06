@@ -13,7 +13,7 @@ end
 
 increaseFibo = true
 fibo1 = 1
-fibo2 = 2
+fibo2 = 1
 counter = 0;
 puts fibo1
 puts fibo2
